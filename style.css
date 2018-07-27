@@ -1,13 +1,15 @@
 .main-advert {
-    background-size: cover;
-
+    background-image: url("http://2.bp.blogspot.com/-Imw20vWMv1M/U-cTZvpNqmI/AAAAAAAAOcw/gJ2832lzhBE/s1600/IMG_6813.JPG");
+    height: 835px;
+    width: auto;
+    box-shadow: 0px 0px 8px rgb(0, 0, 0);
 }
 header {
     background-color: rgb(0, 0, 0);
     height: 55px;
 }
 i {
-color: rgb(94, 94, 94);
+color: rgb(43, 10, 0);
 }
 body{
     background-color: rgb(29, 29, 29);
@@ -17,9 +19,14 @@ footer {
     height: 50px;
     position: fixed;
 }
-h3 {
-color: rgb(255, 255, 255);
+h2 {
+color: rgb(43, 10, 0);
 }
-p {
-    color: white;
+h4 {
+    color: rgb(83, 20, 1);
+}
+
+.row{
+    margin-right: 0px;
+    margin-left: 0px;
 }
